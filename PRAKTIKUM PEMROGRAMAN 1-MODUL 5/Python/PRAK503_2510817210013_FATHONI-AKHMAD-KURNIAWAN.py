@@ -22,3 +22,5 @@ while batas < bilangan:
     maks = maksimal(maks, nilai[batas])
     minim = minimal(minim, nilai[batas])
     batas += 1
+print(maks, minim)
+
